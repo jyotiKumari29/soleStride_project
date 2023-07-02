@@ -4,12 +4,12 @@ const menuItems = document.querySelectorAll(".menuItem");
 const products = [
   {
     id: 1,
-    title: "Air Force",
+    title: "PUMA IGNITE",
     price: 119,
     colors: [
       {
         code: "black",
-        img: "./img/air.png",
+        img: "https://m.media-amazon.com/images/I/81IrkF+QqkL._UX695_.jpg",
       },
       {
         code: "darkblue",
@@ -19,7 +19,7 @@ const products = [
   },
   {
     id: 2,
-    title: "Air Jordan",
+    title: "BATA RED LABEL",
     price: 149,
     colors: [
       {
@@ -34,7 +34,7 @@ const products = [
   },
   {
     id: 3,
-    title: "Blazer",
+    title: "ADIDAS ULTRABOOST",
     price: 109,
     colors: [
       {
@@ -49,7 +49,7 @@ const products = [
   },
   {
     id: 4,
-    title: "Crater",
+    title: "REEBOK FLOATRIDE",
     price: 129,
     colors: [
       {
@@ -64,7 +64,7 @@ const products = [
   },
   {
     id: 5,
-    title: "Hippie",
+    title: "NIKE HIPPIE",
     price: 99,
     colors: [
       {
